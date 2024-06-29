@@ -6,7 +6,7 @@
   "cover": "https://mangadex.org/covers/199b17a2-1b2c-4383-87b4-4a823681c18a/0360c343-29ac-42f8-9543-0a3689517ec4.jpg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Ch. 1",
       "volume": "",
       "last_updated": "1611501060",
       "groups": {
@@ -50,11 +50,17 @@
       }
     },
     "2": {
-      "title": "2",
+      "title": "Ch. 2",
       "volume": "",
       "last_updated": "1612179960",
       "groups": {
-        "Snudae Scans": "/proxy/api/mangadex/chapter/ad542f49-63a0-4d18-99f8-bf481e04a945"
+        "Snudae Scans": [
+          "https://files.catbox.moe/39qlwl.png",
+          "https://files.catbox.moe/tfxc2a.png",
+          "https://files.catbox.moe/2dba9l.png",
+          "https://files.catbox.moe/tbtduz.png",
+          "https://files.catbox.moe/s8m7ar.png"
+        ]
       }
     }
   }

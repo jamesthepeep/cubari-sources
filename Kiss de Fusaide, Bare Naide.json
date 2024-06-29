@@ -93,7 +93,7 @@
     "3": {
       "title": "Ch. 3",
       "volume": "1",
-      "last_updated": "1719632455",
+      "last_updated": "1612946580",
       "groups": {
         "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
       }
@@ -101,7 +101,7 @@
     "4": {
       "title": "Ch. 4",
       "volume": "1",
-      "last_updated": "1719632470",
+      "last_updated": "1613986200",
       "groups": {
         "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
       }
@@ -109,7 +109,7 @@
     "5": {
       "title": "Ch. 5",
       "volume": "1",
-      "last_updated": "1719632516",
+      "last_updated": "1615196880",
       "groups": {
         "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
       }
@@ -117,7 +117,7 @@
     "6": {
       "title": "Ch. 6",
       "volume": "2",
-      "last_updated": "1719632570",
+      "last_updated": "1630952880",
       "groups": {
         "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
       }
@@ -125,7 +125,7 @@
     "7": {
       "title": "Ch. 7",
       "volume": "2",
-      "last_updated": "1719632901",
+      "last_updated": "1630953000",
       "groups": {
         "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
       }
@@ -133,7 +133,7 @@
     "8": {
       "title": "Ch. 8",
       "volume": "2",
-      "last_updated": "1719632929",
+      "last_updated": "1630986529",
       "groups": {
         "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
       }
@@ -141,7 +141,7 @@
     "9": {
       "title": "Ch. 9",
       "volume": "2",
-      "last_updated": "1719632943",
+      "last_updated": "1630986543",
       "groups": {
         "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
       }
@@ -149,7 +149,7 @@
     "10": {
       "title": "Ch. 10",
       "volume": "2",
-      "last_updated": "1719633026",
+      "last_updated": "1630986626",
       "groups": {
         "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
       }
@@ -170,10 +170,66 @@
         "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
       }
     },
+    "13": {
+      "title": "Ch. 13",
+      "volume": "",
+      "last_updated": "1719633217",
+      "groups": {
+        "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
+      }
+    },
+    "14": {
+      "title": "Ch. 14",
+      "volume": "",
+      "last_updated": "1719633230",
+      "groups": {
+        "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
+      }
+    },
+    "15": {
+      "title": "Ch. 15",
+      "volume": "",
+      "last_updated": "1719633248",
+      "groups": {
+        "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
+      }
+    },
+    "16": {
+      "title": "Ch. 16",
+      "volume": "",
+      "last_updated": "1719633280",
+      "groups": {
+        "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
+      }
+    },
+    "17": {
+      "title": "Ch. 17",
+      "volume": "",
+      "last_updated": "1719633299",
+      "groups": {
+        "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
+      }
+    },
+    "18": {
+      "title": "Ch. 18",
+      "volume": "",
+      "last_updated": "1719633322",
+      "groups": {
+        "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
+      }
+    },
+    "19": {
+      "title": "Ch. 19",
+      "volume": "",
+      "last_updated": "1719633332",
+      "groups": {
+        "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
+      }
+    },
     "5.5": {
       "title": "Ch. 5.5",
       "volume": "1",
-      "last_updated": "1719632533",
+      "last_updated": "1630952220",
       "groups": {
         "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
       }
@@ -181,7 +237,7 @@
     "10.5": {
       "title": "Ch. 10.5",
       "volume": "2",
-      "last_updated": "1719633061",
+      "last_updated": "1652932261",
       "groups": {
         "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
       }

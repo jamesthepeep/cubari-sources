@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Ch. 1",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1611501060",
       "groups": {
         "Snudae Scans": [
@@ -51,7 +51,7 @@
     },
     "2": {
       "title": "Ch. 2",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1612179960",
       "groups": {
         "Snudae Scans": [
@@ -61,6 +61,46 @@
           "https://files.catbox.moe/tbtduz.png",
           "https://files.catbox.moe/s8m7ar.png"
         ]
+      }
+    },
+    "3": {
+      "title": "Ch. 3",
+      "volume": "1",
+      "last_updated": "1719632455",
+      "groups": {
+        "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
+      }
+    },
+    "4": {
+      "title": "Ch. 4",
+      "volume": "1",
+      "last_updated": "1719632470",
+      "groups": {
+        "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
+      }
+    },
+    "5": {
+      "title": "Ch. 5",
+      "volume": "1",
+      "last_updated": "1719632516",
+      "groups": {
+        "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
+      }
+    },
+    "6": {
+      "title": "Ch. 6",
+      "volume": "2",
+      "last_updated": "1719632570",
+      "groups": {
+        "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
+      }
+    },
+    "5.5": {
+      "title": "Ch. 5.5",
+      "volume": "1",
+      "last_updated": "1719632533",
+      "groups": {
+        "Snudae Scans": "/proxy/api/mangadex/chapter/0a34382e-e3f7-48f5-80ef-3fd519d681bb"
       }
     }
   }

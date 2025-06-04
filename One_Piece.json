@@ -1,0 +1,42 @@
+{
+  "title": "One Piece",
+  "description": "One Piece's latest chapters",
+  "artist": "Oda",
+  "author": "Oda",
+  "cover": "https://cover-url.com/image.jpg",
+  "chapters": {
+    "001.1150": {
+      "title": "Domi Reversi",
+      "last_updated": "1749069893",
+      "groups": {
+        "Uploader Name": "/proxy/api/imgchest/chapter/dl7pdjmj37o"
+      },
+      "volume": "01"
+    },
+    "1": {
+      "title": "Episode 2",
+      "last_updated": "1749070360",
+      "groups": {
+        "Uploader Name": "/proxy/api/imgchest/chapter/o24a8pegd7l"
+      },
+      "volume": "02"
+    },
+    "1149": {
+      "title": "One Second",
+      "last_updated": "1749070251",
+      "groups": {
+        "Uploader Name": "/proxy/api/imgchest/chapter/qe4g5d6lq7j"
+      },
+      "volume": "01"
+    },
+    "1150": {
+      "title": "Domi Reversi",
+      "last_updated": "1749070261",
+      "groups": {
+        "Uploader Name": "/proxy/api/imgchest/chapter/xny85xkz2yb"
+      },
+      "volume": "01"
+    }
+  },
+  "last_updated": "2025-06-04T11:51:26.617709"
+}

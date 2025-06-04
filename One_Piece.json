@@ -5,6 +5,14 @@
   "author": "Oda",
   "cover": "https://cover-url.com/image.jpg",
   "chapters": {
+    "001.1150": {
+      "title": "Domi Reversi",
+      "last_updated": "1749069893",
+      "groups": {
+        "Uploader Name": "/proxy/api/imgchest/chapter/dl7pdjmj37o"
+      },
+      "volume": "01"
+    },
     "1": {
       "title": "Episode 2",
       "last_updated": "1749069346",

@@ -7,35 +7,35 @@
   "chapters": {
     "1": {
       "title": "Pain",
-      "last_updated": "1749764686",
+      "last_updated": "1749766113",
       "groups": {
-        "Uploader Name": "/proxy/api/imgur/chapter/urKgC2Q"
+        "Uploader Name": "/proxy/api/imgchest/chapter/agyv9wgl978"
       },
       "volume": "01"
     },
     "1149": {
       "title": "One Second",
-      "volume": "01",
-      "last_updated": "1749762249",
+      "last_updated": "1749766127",
       "groups": {
-        "Uploader Name": "/proxy/api/imgchest/chapter/lqyeg6z9z7d"
-      }
+        "Uploader Name": "/proxy/api/imgchest/chapter/9249pgm927n"
+      },
+      "volume": "01"
     },
     "1150": {
       "title": "Domi Reversi",
-      "last_updated": "1749765228",
+      "last_updated": "1749766138",
       "groups": {
-        "Uploader Name": "/proxy/api/imgchest/chapter/6eyrm83ne4p"
+        "Uploader Name": "/proxy/api/imgchest/chapter/ne7bkvr3n75"
       },
       "volume": "01"
     },
     "8": {
       "title": "Episode 2",
-      "volume": "02",
-      "last_updated": "1749762353",
+      "last_updated": "1749766240",
       "groups": {
-        "Uploader Name": "/proxy/api/imgchest/chapter/xny85o9bwyb"
-      }
+        "Uploader Name": "/proxy/api/imgchest/chapter/dl7pd9r667o"
+      },
+      "volume": "02"
     }
   }
 }
